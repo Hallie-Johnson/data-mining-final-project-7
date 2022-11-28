@@ -1,2 +1,2 @@
-# data-mining-final-project-7
+# Data Mining Final Project
 Group 7
